@@ -1,4 +1,4 @@
-</div>---
+</div>
 
 Sobre mim..
 
@@ -20,10 +20,6 @@ Objetivos atuais
     - Aprimorar habilidades em desenvolvimento web,
     - Explorar a Inteligência Artificial,
     - Aprender sobre robótica e automação.
-
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:075985,100:020617&height=100&section=footer" width="100%" alt="Blue futuristic footer"/>“The best way to predict the future is to invent it - Alan Kay”
-
 
 </div>
 
