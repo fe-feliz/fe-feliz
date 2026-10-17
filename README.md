@@ -8,7 +8,7 @@
 
 Olá! Eu me chamo *Fernanda Kandini*, tenho 17 anos e sou estudante da área de tecnologia, atualmente cursando uma formação técnica em Computação na escola Elfrida Cristino da Silva.
 
-Espero explorar cada vez mais o potencial da *Inteligência Artificial* para solucionar problemas do mundo real. Minha trajetória no desenvolvimento é voltada à construção de bases técnicas sólidas, à criação de projetos práticos e à expansão contínua do meu conhecimento.
+Espero explorar cada vez mais o potencial da Inteligência Artificial para solucionar problemas do mundo real. Minha trajetória no desenvolvimento é voltada à construção de bases técnicas sólidas, à criação de projetos práticos e à expansão contínua do meu conhecimento.
 
 ---
 
